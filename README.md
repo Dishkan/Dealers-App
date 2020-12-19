@@ -1,6 +1,6 @@
 #setup To begin with, use delivery.sql within the project folder and import to mysql database and then it will work
 
-#usage To use it, you have to pass authorization part and by that it will show and save your user id. This app will help you to keep your dealers online by filling inputs like: name, country, state, city, zip and edit or delete it and its format will be checked whether it's valid or not and then give the proper message. 
+#usage To use it, you have to pass authorization part and by that it will show and save your user id and then app will be available. It will help you to keep your dealers online by filling inputs like: name, country, state, city, zip and edit or delete it and its format will be checked whether it's valid or not and then give the proper message.
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
