@@ -1,4 +1,4 @@
-#setup To begin with, use delivery.sql within the project folder and import to mysql database and then it will work
+#setup To begin with, use delivery.sql within the project folder and import to mysql database and then install laravel breeze after all of that it will work
 
 #usage To use it, you have to pass authorization part and by that it will show and save your user id and then app will be available. It will help you to keep your dealers online by filling inputs like: name, country, state, city, zip and edit or delete it and its format will be checked whether it's valid or not and then give the proper message.
 
